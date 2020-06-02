@@ -19,3 +19,10 @@ It was complicated but once you have it down is fairly easy.
 10. use (code .) to open your file in vs code and start making changes
 11. after you have made your changes to the file you are editing, in the terminal use (git commit -m 'your message here') to commit your changes with a message
 12. lastly use (git push) to send your changes to GitHub and everyone can see your progess!
+
+some extra notes to help first timers:
+
+after using (git push) and continuing to edit the same doc you will need to use (git add docname.file) to save the next changes you make
+
+use (git add .) or (git commit .) to commit all changes or add all files. the '.' is "all"
+
